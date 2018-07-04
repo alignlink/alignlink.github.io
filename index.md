@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## AlignLinkとは
 
-You can use the [editor on GitHub](https://github.com/alignlink/alignlink.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+大手のポータルサイト、検索サイト出身者やWeb系ベンチャー起業の技術顧問など、数名のフリーランスで相互協力しながら運営している任意団体です。
+主にWeb系の業務システム開発やサービス開発を行っておりますが、日々の保守運用、技術顧問契約も行っております。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ご相談先
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+技術的なご相談などはまずはメールにてお願いいたします（お客様のご希望によりslack/chatwork/skypeなども可能です）
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alignlink/alignlink.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+tech-advisor@align.link
